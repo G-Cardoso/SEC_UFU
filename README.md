@@ -1,0 +1,2 @@
+# SEC_UFU
+Repositório de arquivos da disciplina de SISTEMAS E CONTROLE do curso de ENGENHARIA DE COMPUTAÇÃO da UNIVERSIDADE FEDERAL DE UBERLÂNDIA (UFU)
